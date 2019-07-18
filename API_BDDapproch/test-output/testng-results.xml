@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-07-17T14:33:20Z" name="Default suite" finished-at="2019-07-17T14:33:33Z" duration-ms="13068">
+    <groups>
+    </groups>
+    <test started-at="2019-07-17T14:33:20Z" name="Default test" finished-at="2019-07-17T14:33:33Z" duration-ms="13068">
+      <class name="RestAssuredAPITesting_BDDapproch.API_BDDapproch.Get_Weatherreport">
+        <test-method signature="getweatherDetails()[pri:1, instance:RestAssuredAPITesting_BDDapproch.API_BDDapproch.Get_Weatherreport@687e99d8]" started-at="2019-07-17T14:33:20Z" name="getweatherDetails" finished-at="2019-07-17T14:33:32Z" duration-ms="11774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getweatherDetails -->
+        <test-method signature="singleuserDetails()[pri:2, instance:RestAssuredAPITesting_BDDapproch.API_BDDapproch.Get_Weatherreport@687e99d8]" started-at="2019-07-17T14:33:32Z" name="singleuserDetails" finished-at="2019-07-17T14:33:32Z" duration-ms="885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- singleuserDetails -->
+        <test-method signature="resourseDetails()[pri:3, instance:RestAssuredAPITesting_BDDapproch.API_BDDapproch.Get_Weatherreport@687e99d8]" started-at="2019-07-17T14:33:32Z" name="resourseDetails" finished-at="2019-07-17T14:33:33Z" duration-ms="252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resourseDetails -->
+      </class> <!-- RestAssuredAPITesting_BDDapproch.API_BDDapproch.Get_Weatherreport -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
